@@ -6,7 +6,7 @@ edition = "2018"
 [dependencies]
 koe-audio = { path = "../koe-audio" }
 anyhow = "1.0.43"
-tokio = "1.10.1"
+tokio = "1.13.1"
 google-texttospeech1 = "2.0.4"
 hyper = "0.14.12"
 hyper-rustls = "0.22.1"
