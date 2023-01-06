@@ -10,7 +10,7 @@ koe-speech = { path = "../koe-speech" }
 
 # Basics
 anyhow = "1.0.43"
-tokio = { version = "1.10.1", features = ["rt-multi-thread", "macros", "sync"] }
+tokio = { version = "1.16.1", features = ["rt-multi-thread", "macros", "sync"] }
 
 # Logging
 log = "0.4.14"
